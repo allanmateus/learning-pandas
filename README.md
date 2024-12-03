@@ -1,1 +1,1 @@
-# learning-pandas
+# Meus estudos com pandas para análise de dados
